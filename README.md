@@ -25,7 +25,7 @@
 1. 克隆此仓库到本地机器。
 2. 打开 `cv.example` 文件，替换示例内容为您自己的信息。
 3. 替换所有图片链接为您自己的图片URL。
-4. 如需启用Google地图功能，请在 `<script>` 标签中替换 `YOUR_API_KEY` 为有效的Google Maps API密钥。这里提供一个可用API：AIzaSyA7gi-FHFUmJ-mmeuCE1Qj4MmQGUiZanfI
+4. 如需启用Google地图功能，请在 `<script>` 标签中替换 `YOUR_API_KEY` 为有效的Google Maps API密钥。具体获取方式自行Google
 5. 根据需要自定义CSS样式。
 
 ## 特性展示
