@@ -1,4 +1,4 @@
-# 一个响应式个人简历模板
+![image](https://github.com/user-attachments/assets/009e9081-fef9-4684-b1a9-6773a910507e)# 一个响应式个人简历模板
 
 这是一个现代化、响应式的个人简历（CV）网页模板，适用于学术界和专业人士。该模板采用HTML、CSS和JavaScript构建，具有清晰的布局和交互式元素。
 
@@ -27,6 +27,19 @@
 3. 替换所有图片链接为您自己的图片URL。
 4. 如需启用Google地图功能，请在 `<script>` 标签中替换 `YOUR_API_KEY` 为有效的Google Maps API密钥。这里提供一个可用API：AIzaSyA7gi-FHFUmJ-mmeuCE1Qj4MmQGUiZanfI
 5. 根据需要自定义CSS样式。
+
+## 特性展示
+1. 首页及个人信息
+   ![image](https://github.com/user-attachments/assets/4ec6ccef-bf34-47bf-9cf9-6ba989a7588b)
+
+2. 代表性工作展示（可滑动）
+   ![image](https://github.com/user-attachments/assets/391534e5-6a4b-4101-bdb8-5645e3f60666)
+
+3. 个人能力统计展示（可滑动）
+   ![image](https://github.com/user-attachments/assets/62c08d9c-49f4-4bb0-88a3-4edde537a60b)
+
+4. 个人成绩展示
+   ![image](https://github.com/user-attachments/assets/dd704089-1709-41b5-b51e-0bd1a794fc89)
 
 
 ## 贡献
