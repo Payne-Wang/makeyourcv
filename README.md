@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/009e9081-fef9-4684-b1a9-6773a910507e)# 一个响应式个人简历模板
+# 一个响应式个人简历模板
 
 这是一个现代化、响应式的个人简历（CV）网页模板，适用于学术界和专业人士。该模板采用HTML、CSS和JavaScript构建，具有清晰的布局和交互式元素。
 
